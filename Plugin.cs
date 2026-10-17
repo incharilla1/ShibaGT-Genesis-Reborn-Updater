@@ -13,7 +13,7 @@ namespace GenesisLoader
     [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
     public class Plugin : BaseUnityPlugin
     {
-        private const string VersionUrl = "https://raw.githubusercontent.com/incharilla1/ShibaGT-Genesis-Reborn/main/PluginInfo.cs";
+        private const string VersionUrl = "https://raw.githubusercontent.com/incharilla1/ShibaGT-Genesis-Reborn/main/Core/PluginInfo.cs";
         private const string DownloadUrl = "https://github.com/incharilla1/ShibaGT-Genesis-Reborn/releases/latest/download/ShibaGTGenesisReborn.dll";
         private const string DllName = "ShibaGTGenesisReborn.dll";
 
